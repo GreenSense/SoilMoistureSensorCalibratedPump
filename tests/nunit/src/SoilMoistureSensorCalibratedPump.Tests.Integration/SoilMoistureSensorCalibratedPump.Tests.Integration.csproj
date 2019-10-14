@@ -45,12 +45,12 @@
     <Compile Include="FullScaleIrrigatorTestFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PumpCommandTestFixture.cs" />
-    <Compile Include="GreenSenseHardwareTestHelper.cs" />
+    <Compile Include="GrowSenseHardwareTestHelper.cs" />
     <Compile Include="HardwareTestHelper.cs" />
     <Compile Include="SoilMoistureSensorPowerTestFixture.cs" />
     <Compile Include="SoilMoistureSensorPowerTestHelper.cs" />
     <Compile Include="FullScaleIrrigatorTestHelper.cs" />
-    <Compile Include="GreenSenseIrrigatorHardwareTestHelper.cs" />
+    <Compile Include="GrowSenseIrrigatorHardwareTestHelper.cs" />
     <Compile Include="PumpCommandTestHelper.cs" />
     <Compile Include="PumpTestFixture.cs" />
     <Compile Include="PumpTestHelper.cs" />

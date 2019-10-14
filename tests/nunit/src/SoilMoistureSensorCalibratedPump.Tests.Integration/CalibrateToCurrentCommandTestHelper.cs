@@ -2,7 +2,7 @@
 
 namespace SoilMoistureSensorCalibratedPump.Tests.Integration
 {
-    public class CalibrateToCurrentCommandTestHelper : GreenSenseHardwareTestHelper
+    public class CalibrateToCurrentCommandTestHelper : GrowSenseHardwareTestHelper
     {
         public string Label;
         public string Letter;

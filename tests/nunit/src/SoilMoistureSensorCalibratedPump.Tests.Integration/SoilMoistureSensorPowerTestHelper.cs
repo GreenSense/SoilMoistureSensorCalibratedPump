@@ -4,7 +4,7 @@ using NUnit.Framework;
 
 namespace SoilMoistureSensorCalibratedPump.Tests.Integration
 {
-    public class SoilMoistureSensorPowerTestHelper : GreenSenseHardwareTestHelper
+    public class SoilMoistureSensorPowerTestHelper : GrowSenseHardwareTestHelper
     {
         public int ReadInterval = 1;
 
